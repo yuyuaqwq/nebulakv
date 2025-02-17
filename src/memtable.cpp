@@ -3,6 +3,8 @@
 #include <nebulakv/noncopyable.h>
 #include <nebulakv/slice.h>
 
+#include <wal/write.h>
+
 namespace nebulakv {
 
 class MemTable : public noncopyable {
