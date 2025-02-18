@@ -3,7 +3,7 @@
 #include <nebulakv/noncopyable.h>
 #include <nebulakv/slice.h>
 
-#include <wal/write.h>
+#include <wal/writer.h>
 
 namespace nebulakv {
 
